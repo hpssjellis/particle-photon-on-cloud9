@@ -23,3 +23,12 @@ or just type
 
 particle login
 
+in that terminal you can then type the other particle commands such as
+
+
+particle help
+
+particle webhook creat myhook3.json
+
+
+
