@@ -7,11 +7,6 @@
       "url": "https://github.com/hpssjellis/particle-photon-on-cloud9"
     },
     "license": "LGPL-3.0",
-    "bin": {
-      "particle": "./bin/particle.js"
-    },
-    "main": "./app.js",
-    "private": "true",
     "scripts": {
         "install": "npm install -g particle-cli",
         "start": "particle"
