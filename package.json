@@ -1,0 +1,59 @@
+{
+    "name": "particle-cloud9",
+    "description": "Example Particle CLI on Cloud9",
+    "version": "1.8.16",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/spark/particle-cli"
+    },
+    "license": "LGPL-3.0",
+    "bin": {
+      "particle": "./bin/particle.js"
+    },
+    "main": "./app.js",
+    "private": "true",
+    "scripts": {
+        "start": "particle"
+    },
+    "engines": {
+    "node": ">=0.10.40"
+    },
+    "dependencies": {
+       "chalk": "^1.0.0",
+       "cli-spinner": "^0.2.1",
+       "cli-table": "^0.3.1",
+       "fast-luhn": "^1.0.2",
+       "glob": "^4.2.1",
+       "hogan.js": "^2.0.0",
+       "inquirer": "^0.8.2",
+       "lodash": "^3.10.1",
+       "moment": "^2.9.0",
+       "node-wifiscanner2": "^1.1.0",
+       "request": "^2.46.0",
+       "serialport": "^2.0.1",
+       "softap-setup": "^1.1.4",
+       "when": "^3.7.2",
+       "xtend": "^4.0.0"
+   },
+  "preferGlobal": true,
+  "devDependencies": {
+    "coveralls": "^2.11.4",
+    "eslint": "^1.1.0",
+    "istanbul": "^0.3.22",
+    "mocha": "^2.2.5",
+    "proxyquire": "^1.6.0",
+    "should": "^7.0.2",
+    "sinon": "^1.15.4"
+  }
+    "contributors": [
+        {
+           "name": "Kenneth Lim",
+            "url": "https://github.com/kennethlimcp"
+         },
+            "name": "Jeremy Ellis",
+            "email": "info@rocksetta.com",
+            "url": "http://rocksetta.com/"
+        }
+
+    ]
+}
