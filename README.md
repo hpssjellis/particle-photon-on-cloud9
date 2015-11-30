@@ -8,6 +8,10 @@ use http://c9.io
 
 login and make a new workspace.
 
+cloud9-setup.png
+
+
+
 Click Node.js and then enter the github repository
 
 https://github.com/hpssjellis/particle-photon-on-cloud9.git
