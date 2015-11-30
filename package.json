@@ -9,7 +9,7 @@
     "license": "LGPL-3.0",
     "scripts": {
         "install": "npm install -g particle-cli",
-        "start": "particle"
+        "start": "particle login"
     },
     "engines": {
     "node": ">=0.10.40"
