@@ -4,7 +4,7 @@
     "version": "1.8.16",
     "repository": {
       "type": "git",
-      "url": "https://github.com/spark/particle-cli"
+      "url": "https://github.com/hpssjellis/particle-photon-on-cloud9"
     },
     "license": "LGPL-3.0",
     "bin": {
@@ -13,6 +13,7 @@
     "main": "./app.js",
     "private": "true",
     "scripts": {
+        "install": "npm install -g particle-cli",
         "start": "particle"
     },
     "engines": {
