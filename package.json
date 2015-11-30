@@ -35,6 +35,44 @@
        "when": "^3.7.2",
        "xtend": "^4.0.0"
    },
+  "contributors": [
+    {
+      "name": "Kenneth Lim",
+      "url": "https://github.com/kennethlimcp"
+    },
+    {
+      "name": "David Washington",
+      "url": "https://github.com/dwcares"
+    },
+    {
+      "name": "TJ Hunter",
+      "url": "https://github.com/Hypnopompia"
+    },
+    {
+      "name": "Udo Kramer",
+      "url": "https://github.com/optikfluffel"
+    },
+    {
+      "name": "vk2tds",
+      "url": "https://github.com/vk2tds"
+    },
+    {
+      "name": "Emily Rose",
+      "url": "https://github.com/emilyrose"
+    },
+    {
+      "name": "Kyle Marsh",
+      "url": "https://github.com/kylemarsh"
+    },
+    {
+      "name": "Harrison Jones",
+      "url": "https://github.com/harrisonhjones"
+    },
+    {
+      "name": "Bryce Kahle",
+      "url": "https://github.com/brycekahle"
+    }
+  ],
   "preferGlobal": true,
   "devDependencies": {
     "coveralls": "^2.11.4",
@@ -45,15 +83,4 @@
     "should": "^7.0.2",
     "sinon": "^1.15.4"
   }
-    "contributors": [
-        {
-           "name": "Kenneth Lim",
-            "url": "https://github.com/kennethlimcp"
-         },
-            "name": "Jeremy Ellis",
-            "email": "info@rocksetta.com",
-            "url": "http://rocksetta.com/"
-        }
-
-    ]
 }
