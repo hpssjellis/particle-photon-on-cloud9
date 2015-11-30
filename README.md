@@ -20,7 +20,7 @@ https://github.com/hpssjellis/particle-photon-on-cloud9.git
 click create workspace and wait a few seconds
 
 
-In the lower box terminal enter the command (nd wait about 5 minutes)
+In the lower box terminal enter the command (and wait about 5 minutes)
 
 npm install
 
