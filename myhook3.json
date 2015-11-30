@@ -1,0 +1,9 @@
+{
+    "eventName": "getTime",
+    "url": "http://myserver.dk/time.php",
+    "requestType": "GET",
+    "query": {
+        "timezone": "GMT"
+    },
+    "mydevices": true
+}
