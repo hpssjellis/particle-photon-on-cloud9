@@ -51,15 +51,15 @@ in that terminal you can then type the other particle commands such as
 
 particle help
 
-particle webhook creat myhook3.json
+particle webhook creat myhook3.json      (creates a webhook)
 
-particle webhook list      lists your webhooks and the webhook number
+particle webhook list      (lists your webhooks and the webhook number)
 
-particle webhook delete           needs the webhook number
+particle webhook delete           (needs the webhook number)
 
 
 
-particle list         lists your devices
+particle list         (lists your devices)
 
-particle subscribe mine    shows the traffic to and from your device
+particle subscribe mine    (shows the traffic to and from your device)
 
