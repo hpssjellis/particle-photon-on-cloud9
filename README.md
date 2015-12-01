@@ -4,6 +4,21 @@ particle-photon-on-cloud9
 
 
 
+photon-json.ino should be flashed to the Particle photon
+
+
+myhook3.json should be uploaded to particle using the CLI installed on your computer or a virtual client described below
+
+the command to upload hook3.json is 
+
+particle webhook create myhook3.json
+
+
+
+
+To make a virtual particle CLI follow these steps:
+
+
 use http://c9.io
 
 login and make a new workspace.
@@ -37,6 +52,14 @@ in that terminal you can then type the other particle commands such as
 particle help
 
 particle webhook creat myhook3.json
+
+particle webhook list
+
+particle webhook delete
+
+
+
+particle list
 
 
 
