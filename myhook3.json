@@ -1,9 +1,7 @@
 {
-    "eventName": "getTime",
-    "url": "http://myserver.dk/time.php",
-    "requestType": "GET",
-    "query": {
-        "timezone": "GMT"
-    },
+    "eventName": "post-to-particle",
+    "url": "https://api.spark.io/v1/devices/",
+    "requestType": "POST",
+    "responseTemplate": "{{error_description}}",
     "mydevices": true
 }
