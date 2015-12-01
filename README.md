@@ -9,7 +9,7 @@ photon-json.ino should be flashed to the Particle photon
 
 myhook3.json should be uploaded to particle using the CLI installed on your computer or a virtual client described below
 
-the command to upload hook3.json is 
+the command to upload myhook3.json is 
 
 particle webhook create myhook3.json
 
