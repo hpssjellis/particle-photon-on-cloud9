@@ -1,6 +1,16 @@
 # particle-photon-on-cloud9
 particle-photon-on-cloud9
 
+
+Potential security vulnerability found in the lodash dependency
+
+lodash has a security issue. I have made the package.json into a text file so that the dependancy is not active. Not really sure what is wrong with lodash.
+
+I don't presently use this repository anyway.
+
+
+
+
 and a really easy example of using webhooks
 
 
